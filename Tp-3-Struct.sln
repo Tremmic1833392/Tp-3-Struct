@@ -1,8 +1,16 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Tp-3-Struct", "Tp-3-Struct\Tp-3-Struct.vcxproj", "{ECCBD77B-7AF2-42CC-B0EF-B4C1ED0D9B08}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ECCBD77B-7AF2-42CC-B0EF-B4C1ED0D9B08}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{ECCBD77B-7AF2-42CC-B0EF-B4C1ED0D9B08}.Debug|Any CPU.Build.0 = Debug|Win32
+		{ECCBD77B-7AF2-42CC-B0EF-B4C1ED0D9B08}.Release|Any CPU.ActiveCfg = Release|Win32
+		{ECCBD77B-7AF2-42CC-B0EF-B4C1ED0D9B08}.Release|Any CPU.Build.0 = Release|Win32
 	EndGlobalSection
 EndGlobal
